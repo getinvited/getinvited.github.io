@@ -26,7 +26,8 @@ body {
   font-family: 'Roboto Slab', serif;
   font-weight: 300;
   color: #444;
-   -webkit-font-smoothing: antialiased;
+  background: #f9f9f9;
+  -webkit-font-smoothing: antialiased;
 }
 
 header {
